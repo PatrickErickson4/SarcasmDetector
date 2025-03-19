@@ -1,6 +1,6 @@
 # SarcasmDetection
-This is a collaborative effort with Parth Gosar, Derek Guidorizzi @squiddycodes, Sahil Pardasani.
-The following packages need to be installed, to run the code: pandas, nltk, numpy, tensorflow, optuna, scikit-learn, gensim
+This is a collaborative effort with Parth Gosar, Derek Guidorizzi, Sahil Pardasani.
+The following packages need to be installed, to run the code: pandas, nltk, numpy, tensorflow, optuna, scikit-learn, gensim. This is the same repository under @squiddycodes, but duplicated due to the logistics of class enrollments.
 
 You can run "pip install -r requirements.txt" to install them all in one command.
 
